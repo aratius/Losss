@@ -1,6 +1,4 @@
 
-
-//void setup() {
   int numA = 55;
   int numB = 100;
   float ratio = (float) numB / numA;
@@ -30,4 +28,3 @@
   }
   
  }
-//}
